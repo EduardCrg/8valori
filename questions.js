@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "Oppression by corporations is more of a concern than oppression by governments.",
+        "question": "Asuprirea de către corporații este o problemă mai mare decât asuprirea de către guverne.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -9,7 +9,7 @@ questions = [
         }
     },
     {
-        "question": "It is necessary for the government to intervene in the economy to protect consumers.",
+        "question": "Este necesar ca statul să intervina în economie pentru a proteja consumatorii.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -18,7 +18,7 @@ questions = [
         }
     },
     {
-        "question": "The freer the markets, the freer the people.",
+        "question": "Cu cât mai liberă este piața, cu atât mai liberi sunt oamenii.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -27,7 +27,7 @@ questions = [
         }
     },
     {
-        "question": "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
+        "question": "Este mai bine să păstrăm un buget echilibrat (cu deficite și cheltuieli reduse) decât să asigurăm asistență socială tuturor cetățenilor.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -36,7 +36,7 @@ questions = [
         }
     },
     {
-        "question": "Publicly-funded research is more beneficial to the people than leaving it to the market.",
+        "question": "Este mai benefic pentru oameni dacă cercetarea este finanțată de către stat, nu lăsată doar în sarcina privatului.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -45,7 +45,7 @@ questions = [
         }
     },
     {
-        "question": "Tariffs on international trade are important to encourage local production.",
+        "question": "Taxele vamale pentru comerțul internațional sunt importante pentru a încuraja producția locală.",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -54,7 +54,7 @@ questions = [
         }
     },
     {
-        "question": "From each according to his ability, to each according to his needs.",
+        "question": "De la fiecare după posibilități, fiecăruia după nevoi.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -63,7 +63,7 @@ questions = [
         }
     },
     {
-        "question": "It would be best if social programs were abolished in favor of private charity.",
+        "question": "Ar fi mai bine dacă programele sociale de stat ar fi desființate în favoarea organizațiilor caritabile private.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -72,7 +72,7 @@ questions = [
         }
     },
     {
-        "question": "Taxes should be increased on the rich to provide for the poor.",
+        "question": "Taxele trebuie crescute pentru cei bogați astfel încât să putem aloca resurse pentru cei săraci.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -81,7 +81,7 @@ questions = [
         }
     },
     {
-        "question": "Inheritance is a legitimate form of wealth.",
+        "question": "Moștenirile sunt o formă legitimă de avere.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -90,7 +90,7 @@ questions = [
         }
     },
     {
-        "question": "Basic utilities like roads and electricity should be publicly owned.",
+        "question": "Utilitățile publice precum drumurile sau rețeaua electrică ar trebui să fie deținute de stat.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -99,7 +99,7 @@ questions = [
         }
     },
     {
-        "question": "Government intervention is a threat to the economy.",
+        "question": "Intervenția statului este un pericol pentru economie.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -108,7 +108,7 @@ questions = [
         }
     },
     {
-        "question": "Those with a greater ability to pay should receive better healthcare.",
+        "question": "Cei care își permit ar trebui să aibă posibilitatea de a plăti pentru îngrijiri medicale mai bune decât restul populației.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -117,7 +117,7 @@ questions = [
         }
     },
     {
-        "question": "Quality education is a right of all people.",
+        "question": "Toți au dreptul la o educație de calitate.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -126,7 +126,7 @@ questions = [
         }
     },
     {
-        "question": "The means of production should belong to the workers who use them.",
+        "question": "Mijloacele de producție ar trebui să aparțină muncitorilor care le folosesc.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -135,7 +135,7 @@ questions = [
         }
     },
     {
-        "question": "The United Nations should be abolished.",
+        "question": "Organizația Națiunilor Unite ar trebui desființată.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -144,7 +144,7 @@ questions = [
         }
     },
     {
-        "question": "Military action by our nation is often necessary to protect it.",
+        "question": "Acțiunile militare din partea țării noastre sunt deseori necesare pentru a o apăra.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -153,7 +153,7 @@ questions = [
         }
     },
     {
-        "question": "I support regional unions, such as the European Union.",
+        "question": "Susțin uniunile regionale, precum UE.",
         "effect": {
             "econ": -5,
             "dipl": 10,
@@ -162,7 +162,7 @@ questions = [
         }
     },
     {
-        "question": "It is important to maintain our national sovereignty.",
+        "question": "Este important să păstrăm suveranitatea națională.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -171,7 +171,7 @@ questions = [
         }
     },
     {
-        "question": "A united world government would be beneficial to mankind.",
+        "question": "Un guvern mondial ar fi benefic pentru omenire.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -180,7 +180,7 @@ questions = [
         }
     },
     {
-        "question": "It is more important to retain peaceful relations than to further our strength.",
+        "question": "Este mai important să păstrăm relații pașnice decât sa ne extindem influența ca țară.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -189,7 +189,7 @@ questions = [
         }
     },
     {
-        "question": "Wars do not need to be justified to other countries.",
+        "question": "Războaiele împotriva altor țări nu trebuie sa fie justificate.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -198,7 +198,7 @@ questions = [
         }
     },
     {
-        "question": "Military spending is a waste of money.",
+        "question": "Cheltuielile militare sunt o risipă de bani.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -207,7 +207,7 @@ questions = [
         }
     },
     {
-        "question": "International aid is a waste of money.",
+        "question": "Ajutorul internațional este o risipă de bani.",
         "effect": {
             "econ": -5,
             "dipl": -10,
@@ -216,7 +216,7 @@ questions = [
         }
     },
     {
-        "question": "My nation is great.",
+        "question": "Țara mea este cea mai tare",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -225,7 +225,7 @@ questions = [
         }
     },
     {
-        "question": "Research should be conducted on an international scale.",
+        "question": "Cercetarea științifică ar trebui desfășurată la scară globală.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -234,7 +234,7 @@ questions = [
         }
     },
     {
-        "question": "Governments should be accountable to the international community.",
+        "question": "Comunitatea internațională trebuie să aibă posibilitatea de a trage la răspundere guvernul unei țâri.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -243,7 +243,7 @@ questions = [
         }
     },
     {
-        "question": "Even when protesting an authoritarian government, violence is not acceptable.",
+        "question": "Chiar și în cazul protestelor împotriva unui guvern autoritar, violența nu este acceptabilă",
         "effect": {
             "econ": 0,
             "dipl": 5,
@@ -252,7 +252,7 @@ questions = [
         }
     },
     {
-        "question": "My religious values should be spread as much as possible.",
+        "question": "Valorile mele religioase ar trebui răspândite cât de mult posibil",
         "effect": {
             "econ": 0,
             "dipl": -5,
@@ -261,7 +261,7 @@ questions = [
         }
     },
     {
-        "question": "Our nation's values should be spread as much as possible.",
+        "question": "Valorile țării mele ar trebui răspândite cât de mult posibil",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -270,7 +270,7 @@ questions = [
         }
     },
     {
-        "question": "It is very important to maintain law and order.",
+        "question": "E foarte important să menținem ordinea publică.",
         "effect": {
             "econ": 0,
             "dipl": -5,
@@ -279,7 +279,7 @@ questions = [
         }
     },
     {
-        "question": "The general populace makes poor decisions.",
+        "question": "Populația de obicei face alegeri proaste.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -288,7 +288,7 @@ questions = [
         }
     },
     {
-        "question": "Victimless crimes (such as drug use) should not be crimes at all.",
+        "question": "Infracțiunile fără victime (precum consumul de droguri) n-ar trebui să fie considerate infracțiuni.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -297,7 +297,7 @@ questions = [
         }
     },
     {
-        "question": "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
+        "question": "Sacrificarea unor libertăți civile este necesară pentru a ne apăra de terorism",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -306,7 +306,7 @@ questions = [
         }
     },
     {
-        "question": "Government surveillance is necessary in the modern world.",
+        "question": "Spionarea cetățenilor de către guvern este necesară în lumea modernă.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -315,7 +315,7 @@ questions = [
         }
     },
     {
-        "question": "The very existence of the state is a threat to our liberty.",
+        "question": "Însăși existența statului este un pericol pentru libertatea noastră",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -324,7 +324,7 @@ questions = [
         }
     },
     {
-        "question": "Regardless of political opinions, it is important to side with your country.",
+        "question": "Indiferent de opiniile politice, e important sa ții cu țara ta.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -333,7 +333,7 @@ questions = [
         }
     },
     {
-        "question": "All authority should be questioned.",
+        "question": "Orice fel de autoritate trebuie contestată.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -342,7 +342,7 @@ questions = [
         }
     },
     {
-        "question": "A hierarchical state is best.",
+        "question": "Statul ierarhic este cel mai bun.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -351,7 +351,7 @@ questions = [
         }
     },
     {
-        "question": "It is important that the government follows the majority opinion, even if it is wrong.",
+        "question": "Este important ca guvernul sa urmeze opinia majorității, chiar dacă este greșită.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -360,7 +360,7 @@ questions = [
         }
     },
     {
-        "question": "The stronger the leadership, the better.",
+        "question": "Cu cât mai puternică este conducerea, cu atât mai bine.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -369,7 +369,7 @@ questions = [
         }
     },
     {
-        "question": "Democracy is more than a decision-making process.",
+        "question": "Democrația înseamnă mai mult decât un proces de luare a deciziilor.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -378,7 +378,7 @@ questions = [
         }
     },
     {
-        "question": "Environmental regulations are essential.",
+        "question": "Reglementările pentru protejarea mediului sunt foarte importante.",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -387,7 +387,7 @@ questions = [
         }
     },
     {
-        "question": "A better world will come from automation, science, and technology.",
+        "question": "O lume mai buna va veni din știință, tehnologie, automatizare.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -396,7 +396,7 @@ questions = [
         }
     },
     {
-        "question": "Children should be educated in religious or traditional values.",
+        "question": "Copiii trebuie educați cu valori religioase sau tradiționale.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -405,7 +405,7 @@ questions = [
         }
     },
     {
-        "question": "Traditions are of no value on their own.",
+        "question": "Tradițiile nu au o valoare intrinsecă.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -414,7 +414,7 @@ questions = [
         }
     },
     {
-        "question": "Religion should play a role in government.",
+        "question": "Religia trebuie să aibă un rol în guvernarea țării.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -423,7 +423,7 @@ questions = [
         }
     },
     {
-        "question": "Churches should be taxed the same way other institutions are taxed.",
+        "question": "Bisericile trebuie să fie taxate precum alte instituții.",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -432,7 +432,7 @@ questions = [
         }
     },
     {
-        "question": "Climate change is currently one of the greatest threats to our way of life.",
+        "question": "Schimbările climatice sunt unul dintre cele mai mari pericole pentru omenire.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -441,7 +441,7 @@ questions = [
         }
     },
     {
-        "question": "It is important that we work as a united world to combat climate change.",
+        "question": "Este important ca omenirea să fie unită în lupta pentru combaterea schimbărilor climatice.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -450,7 +450,7 @@ questions = [
         }
     },
     {
-        "question": "Society was better many years ago than it is now.",
+        "question": "Înainte era mai bine.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -459,7 +459,7 @@ questions = [
         }
     },
     {
-        "question": "It is important that we maintain the traditions of our past.",
+        "question": "Este important să păstrăm tradițiile din trecut.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -468,7 +468,7 @@ questions = [
         }
     },
     {
-        "question": "It is important that we think in the long term, beyond our lifespans.",
+        "question": "Este important să gândim pe termen lung, nu doar la viața noastră ci și a copiilor noștri.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -477,7 +477,7 @@ questions = [
         }
     },
     {
-        "question": "Reason is more important than maintaining our culture.",
+        "question": "Rațiunea este mai importantă decât păstrarea culturii tradiționale.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -486,7 +486,7 @@ questions = [
         }
     },
     {
-        "question": "Drug use should be legalized or decriminalized.",
+        "question": "Consumul de droguri trebuie legalizat sau dezincriminat.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -495,7 +495,7 @@ questions = [
         }
     },
     {
-        "question": "Same-sex marriage should be legal.",
+        "question": "Căsătoria între persoane de același sex ar trebui să fie legală.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -504,7 +504,7 @@ questions = [
         }
     },
     {
-        "question": "No cultures are superior to others.",
+        "question": "Nicio cultură nu este superioară alteia.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -513,7 +513,7 @@ questions = [
         }
     },
     {
-        "question": "Sex outside marriage is immoral.",
+        "question": "Sexul în afara căsătoriei este imoral.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -522,7 +522,7 @@ questions = [
         }
     },
     {
-        "question": "If we accept migrants at all, it is important that they assimilate into our culture.",
+        "question": "Dacă acceptăm migranți (în loc sa îi respingem), este important ca aceștia să adopte cultura și valorile noastre.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -531,7 +531,7 @@ questions = [
         }
     },
     {
-        "question": "Abortion should be prohibited in most or all cases.",
+        "question": "Avortul trebuie interzis în toate sau în majoritatea cazurilor.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -540,7 +540,7 @@ questions = [
         }
     },
     {
-        "question": "Gun ownership should be prohibited for those without a valid reason.",
+        "question": "Deținerea de arme letale fără un motiv întemeiat trebuie interzisă.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -549,7 +549,7 @@ questions = [
         }
     },
     {
-        "question": "I support single-payer, universal healthcare.",
+        "question": "Susțin un sistem de sănătate universal, plătit din taxele și impozitele cetățenilor.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -558,7 +558,7 @@ questions = [
         }
     },
     {
-        "question": "Prostitution should be illegal.",
+        "question": "Prostituția trebuie să fie interzisă.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -567,7 +567,7 @@ questions = [
         }
     },
     {
-        "question": "Maintaining family values is essential.",
+        "question": "Păstrarea valorilor familiei tradiționale este esențială.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -576,7 +576,7 @@ questions = [
         }
     },
     {
-        "question": "To chase progress at all costs is dangerous.",
+        "question": "Este periculos sa urmărești progresul cu orice preț.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -585,7 +585,7 @@ questions = [
         }
     },
     {
-        "question": "Genetic modification is a force for good, even on humans.",
+        "question": "Modificările genetice pot fi benefice, chiar și când sunt aplicate oamenilor.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -594,7 +594,7 @@ questions = [
         }
     },
     {
-        "question": "We should open our borders to immigration.",
+        "question": "Ar trebui să deschidem granițele migranților.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -603,7 +603,7 @@ questions = [
         }
     },
     {
-        "question": "Governments should be as concerned about foreigners as they are about their own citizens.",
+        "question": "Guvernele ar trebui să aibă grijă de străini în aceeași măsură cu care au grijă de proprii cetățeni.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -612,7 +612,7 @@ questions = [
         }
     },
     {
-        "question": "All people - regardless of factors like culture or sexuality - should be treated equally.",
+        "question": "Toți oamenii, indiferent de etnie sau orientare sexuală, ar trebui tratați în mod egal.",
         "effect": {
             "econ": 10,
             "dipl": 10,
@@ -621,7 +621,7 @@ questions = [
         }
     },
     {
-        "question": "It is important that we further my group's goals above all others.",
+        "question": "Interesele grupării mele au prioritate față de interesele celorlalți",
         "effect": {
             "econ": -10,
             "dipl": -10,

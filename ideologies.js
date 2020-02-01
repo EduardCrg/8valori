@@ -1,6 +1,6 @@
 ideologies = [
     {
-        "name": "Anarcho-Communism",
+        "name": "Anarho-Comunism",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -9,7 +9,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Communism",
+        "name": "Comunism Libertarian",
         "stats": {
             "econ": 100,
             "dipl": 70,
@@ -63,7 +63,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Communism",
+        "name": "Comunism Religios",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -72,7 +72,7 @@ ideologies = [
         }
     },
     {
-        "name": "State Socialism",
+        "name": "Socialism de stat",
         "stats": {
             "econ": 80,
             "dipl": 30,
@@ -81,7 +81,7 @@ ideologies = [
         }
     },
     {
-        "name": "Theocratic Socialism",
+        "name": "Socialism Teocrat",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -90,7 +90,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Socialism",
+        "name": "Socialism Religios",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -99,7 +99,7 @@ ideologies = [
         }
     },
     {
-        "name": "Democratic Socialism",
+        "name": "Socialism Democratic",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -108,7 +108,7 @@ ideologies = [
         }
     },
     {
-        "name": "Revolutionary Socialism",
+        "name": "Socialism Revoluționar",
         "stats": {
             "econ": 80,
             "dipl": 20,
@@ -117,7 +117,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Socialism",
+        "name": "Socialism Libertarian",
         "stats": {
             "econ": 80,
             "dipl": 80,
@@ -126,7 +126,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Syndicalism",
+        "name": "Anarco-Sindicalism",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -135,7 +135,7 @@ ideologies = [
         }
     },
     {
-        "name": "Left-Wing Populism",
+        "name": "Populism de stânga",
         "stats": {
             "econ": 60,
             "dipl": 40,
@@ -144,7 +144,7 @@ ideologies = [
         }
     },
     {
-        "name": "Theocratic Distributism",
+        "name": "Distributism Teocratic",
         "stats": {
             "econ": 60,
             "dipl": 40,
@@ -171,7 +171,7 @@ ideologies = [
         }
     },
     {
-        "name": "Christian Democracy",
+        "name": "Democrație Creștină",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -180,7 +180,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Democracy",
+        "name": "Social Democrație",
         "stats": {
             "econ": 60,
             "dipl": 70,
@@ -189,7 +189,7 @@ ideologies = [
         }
     },
     {
-        "name": "Progressivism",
+        "name": "Progresism",
         "stats": {
             "econ": 60,
             "dipl": 80,
@@ -198,7 +198,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Mutualism",
+        "name": "Anarho-Mutualism",
         "stats": {
             "econ": 60,
             "dipl": 50,
@@ -207,7 +207,7 @@ ideologies = [
         }
     },
     {
-        "name": "National Totalitarianism",
+        "name": "Totalitarianism Naționalist",
         "stats": {
             "econ": 50,
             "dipl": 20,
@@ -216,7 +216,7 @@ ideologies = [
         }
     },
     {
-        "name": "Global Totalitarianism",
+        "name": "Totalitarianism Globalist",
         "stats": {
             "econ": 50,
             "dipl": 80,
@@ -225,7 +225,7 @@ ideologies = [
         }
     },
     {
-        "name": "Technocracy",
+        "name": "Tehnocrație",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -234,7 +234,7 @@ ideologies = [
         }
     },
     {
-        "name": "Centrist",
+        "name": "Centrism",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -252,7 +252,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Anarchism",
+        "name": "Anarhism Religios",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -261,7 +261,7 @@ ideologies = [
         }
     },
     {
-        "name": "Right-Wing Populism",
+        "name": "Populism de dreapta",
         "stats": {
             "econ": 40,
             "dipl": 30,
@@ -270,7 +270,7 @@ ideologies = [
         }
     },
     {
-        "name": "Moderate Conservatism",
+        "name": "Conservator Moderat",
         "stats": {
             "econ": 40,
             "dipl": 40,
@@ -279,7 +279,7 @@ ideologies = [
         }
     },
     {
-        "name": "Reactionary",
+        "name": "Reactionar",
         "stats": {
             "econ": 40,
             "dipl": 40,
@@ -324,7 +324,7 @@ ideologies = [
         }
     },
     {
-        "name": "Autocracy",
+        "name": "Autocrație",
         "stats": {
             "econ": 50,
             "dipl": 20,
@@ -342,7 +342,7 @@ ideologies = [
         }
     },
     {
-        "name": "Capitalist Fascism",
+        "name": "Fascism Capitalist",
         "stats": {
             "econ": 20,
             "dipl": 20,
@@ -351,7 +351,7 @@ ideologies = [
         }
     },
     {
-        "name": "Conservatism",
+        "name": "Conservator",
         "stats": {
             "econ": 30,
             "dipl": 40,
@@ -369,7 +369,7 @@ ideologies = [
         }
     },
     {
-        "name": "Classical Liberalism",
+        "name": "Liberalism Classic",
         "stats": {
             "econ": 30,
             "dipl": 60,
@@ -378,7 +378,7 @@ ideologies = [
         }
     },
     {
-        "name": "Authoritarian Capitalism",
+        "name": "Capitalism Autoritar",
         "stats": {
             "econ": 20,
             "dipl": 30,
@@ -387,7 +387,7 @@ ideologies = [
         }
     },
     {
-        "name": "State Capitalism",
+        "name": "Capitalism de stat",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -396,7 +396,7 @@ ideologies = [
         }
     },
     {
-        "name": "Neo-Conservatism",
+        "name": "Neo-Conservator",
         "stats": {
             "econ": 20,
             "dipl": 20,
@@ -414,7 +414,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Capitalism",
+        "name": "Capitalism Libertarian",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -423,7 +423,7 @@ ideologies = [
         }
     },
     {
-        "name": "Market Anarchism",
+        "name": "Anarhism de piață",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -432,7 +432,7 @@ ideologies = [
         }
     },
     {
-        "name": "Objectivism",
+        "name": "Obiectivism",
         "stats": {
             "econ": 10,
             "dipl": 50,
@@ -441,7 +441,7 @@ ideologies = [
         }
     },
     {
-        "name": "Totalitarian Capitalism",
+        "name": "Capitalism Totalitar",
         "stats": {
             "econ": 0,
             "dipl": 30,
@@ -459,7 +459,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Capitalism",
+        "name": "Anarho-Capitalism",
         "stats": {
             "econ": 0,
             "dipl": 50,
